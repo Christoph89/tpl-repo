@@ -1,3 +1,6 @@
-{
-  "WebApplication": "https://github.com/Christoph89/test-tpl.git"
-}
+[
+  { 
+    "name": "WebApplication",
+    "giturl": "https://github.com/Christoph89/test-tpl.git"
+  }
+]
