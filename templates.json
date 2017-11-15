@@ -1,14 +1,25 @@
-[
-  { 
-    "name": "WebApplication",
-    "giturl": "https://github.com/Christoph89/test-tpl.git"
-  },
-  { 
-    "name": "RestService",
-    "giturl": "https://github.com/Christoph89/rest.git"
-  },
-  { 
-    "name": "Job",
-    "giturl": "https://github.com/Christoph89/job.git"
-  }
-]
+{
+  "templates":
+  [
+    {
+      "name": "WebApplication", 
+      "description": "Web Application",
+      "giturl": "https://github.com/Christoph89/test-tpl.git"
+    },
+    { 
+      "name": "RestService",
+      "description": "Rest Service",
+      "giturl": "https://github.com/Christoph89/test-tpl.git"
+    },
+    { 
+      "name": "Job",
+      "description": "Job",
+      "giturl": "https://github.com/Christoph89/test-tpl.git"
+    },
+    { 
+      "name": "Test",
+      "description": "Test",
+      "giturl": "https://github.com/Christoph89/test-tpl.git"
+    }
+  ]
+}
